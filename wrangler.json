@@ -15,7 +15,7 @@
   },
   "d1_databases": [
     {
-      "binding": "DB",
+      "binding": "D8",
       "database_name": "lingxi-ai-db",
       "database_id": "ef8d7212-6bf4-4705-8c3a-0f85a4ea0731"
     }
